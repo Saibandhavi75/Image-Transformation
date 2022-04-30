@@ -131,7 +131,7 @@ plt.show()
 ![output](https://github.com/Saibandhavi75/Image-Transformation/blob/main/ex%205-4.png?raw=true)
 
 ### iv)Image Reflection
-![output](?https://github.com/Saibandhavi75/Image-Transformation/blob/main/ex%205-5.pngraw=true)
+![output](?https://github.com/Saibandhavi75/Image-Transformation/blob/main/ex%205-5.png?raw=true)
 
 ### v)Image Rotation
 ![output](https://github.com/Saibandhavi75/Image-Transformation/blob/main/ex%205-6.png?raw=true)
